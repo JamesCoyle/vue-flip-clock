@@ -1,0 +1,16 @@
+{
+	"name": "@jamescoyle/flip-clock",
+	"version": "0.1.0",
+	"description": "Creates a flipclock style display for any given string. Each digit will be converted to a flip digit with all other characters preserved.",
+	"keywords": [
+		"vue",
+		"flipclock",
+		"flip",
+		"clock",
+		"counter"
+	],
+	"repository": "github:JamesCoyle/vue-flip-clock",
+	"license": "LGPL-3.0-or-later",
+	"author": "James Coyle",
+	"main": "lib/flip-clock.vue"
+}

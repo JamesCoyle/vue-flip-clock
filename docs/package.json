@@ -1,0 +1,22 @@
+{
+	"name": "vue-flipclock-documentation",
+	"private": true,
+	"license": "UNLICENCED",
+	"scripts": {
+		"version": "genversion --source ./.. --es6 src/version.js",
+		"serve": "pnpm run version & vue-cli-service serve",
+		"build": "pnpm run version & vue-cli-service build",
+		"deploy": "pnpm run build & firebase deploy"
+	},
+	"dependencies": {
+		"@jamescoyle/paper-vue": "^0.1.4",
+		"vue": "^2.6.10"
+	},
+	"devDependencies": {
+		"@vue/cli-service": "^4.0.4",
+		"genversion": "^2.2.0",
+		"sass": "^1.18.0",
+		"sass-loader": "^7.1.0",
+		"vue-template-compiler": "^2.6.10"
+	}
+}
