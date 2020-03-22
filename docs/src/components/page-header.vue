@@ -7,7 +7,7 @@
 		<flip-clock :class="$style.time" :display="timeStr" :duration="200"></flip-clock>
 		<div class="flex" :class="$style.buttons">
 			<paper-button type="contained" tag="a" href="https://github.com/JamesCoyle/vue-flip-clock">GitHub</paper-button>
-			<paper-button type="contained" tag="a" href="https://www.buymeacoffee.com/JamesCoyle">Donate</paper-button>
+			<paper-button type="contained" tag="a" href="https://support.james-coyle.com">Donate</paper-button>
 		</div>
 	</header>
 </template>
