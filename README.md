@@ -1,6 +1,10 @@
-<div align="center">![flip-clock](/uploads/7e9c53db3410789a695d4a28c006f780/image.png)</div>
+![flip-clock](/images/preview.png)
 
 # FlipClock.vue
+
+[![](https://chips.james-coyle.now.sh/npm/version/@jamescoyle/flip-clock)](https://www.npmjs.com/package/@jamescoyle/flip-clock)
+[![](https://chips.james-coyle.now.sh/npm/downloads/@jamescoyle/flip-clock)](https://www.npmjs.com/package/@jamescoyle/flip-clock)
+[![](https://chips.james-coyle.now.sh/custom/Documentation/flip-clock)](https://flip-clock.james-coyle.com/)
 
 Vue Flipclock creates a flipclock style display for any given string. Each digit will be converted to a flip digit with all other characters preserved.
 
